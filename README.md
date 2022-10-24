@@ -145,7 +145,13 @@ Bu dosyada `name` bölümüne validator adınızı ve `identity` bölümüne [ke
 
 #### Pull Request Gönderme
 
-Yukarıdaki işlemleri yapıp validatorumuze ait dosya ve içerisinde iki json dosyasını hazırladıktan sonra şağıdaki resimge görüldüğü gibi `Pıll requests` sekmesini açıyoruz. Bu sayfada `New pull request` butonuna basarak işlemimizi gerçekleştiriyoruz. Hafta içinde bu işlemi yaparsanız daha çabuk sonuç alırsınız. Merge işlemi yapıldıktan sonra resmi repoda sizin açmış olduğunuz klasör ve içerisindeki dosyalar gözükmeye başlayacaktır.
+Yukarıdaki işlemleri yapıp validatorumuze ait dosya ve içerisinde iki json dosyasını hazırladıktan sonra şağıdaki resimde görüldüğü gibi `Pull requests` sekmesini açıyoruz. 
+![01](https://user-images.githubusercontent.com/102043225/197553389-0fde51af-5ccf-4598-a598-09f288985c52.JPG)
+![02](https://user-images.githubusercontent.com/102043225/197553501-178a056c-6339-40c8-bacc-554f582208e6.JPG)
+![03 PR](https://user-images.githubusercontent.com/102043225/197553574-34d2a407-6e4f-408b-a11b-0a549b10dc4a.JPG)
+
+Bu sayfada `New pull request` butonuna basarak işlemimizi gerçekleştiriyoruz. Hafta içinde bu işlemi yaparsanız daha çabuk sonuç alırsınız. Merge işlemi yapıldıktan sonra resmi repoda sizin açmış olduğunuz klasör ve içerisindeki dosyalar gözükmeye başlayacaktır.
+![03 PR-2](https://user-images.githubusercontent.com/102043225/197553651-12e83bba-f958-43c3-ab03-ff6e5b2cb2a5.JPG)
 
 Bu işlemlerden sonra restake için kalan işlemleri yapmaya devam ediyoruz.
 
@@ -247,7 +253,6 @@ Kontrol UUID numaranızı aşağıdaki gibi `networks.local.json` yapılandırma
   }
 }
 ```
-
 
 ### Kullanıcı Arayüzünü (UI) Çalıştırma
 
