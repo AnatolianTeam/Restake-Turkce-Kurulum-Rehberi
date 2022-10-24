@@ -189,7 +189,7 @@ EOF
 
 ##### systemd timer dosyası oluşturma
 
-Zamanlayıcı dosyası, yeniden düzenleme hizmetini her gün çalıştırma kurallarını tanımlar. Tüm kurallar [systemd dokümanlarında] (https://www.freedesktop.org/software/systemd/man/systemd.timer.html) açıklanmaktadır.
+Zamanlayıcı dosyası, yeniden düzenleme hizmetini her gün çalıştırma kurallarını tanımlar. Tüm kurallar [systemd dokümanlarında](https://www.freedesktop.org/software/systemd/man/systemd.timer.html) açıklanmaktadır.
 
 ```bash
 tee <<EOF >/dev/null /etc/systemd/system/restake.timer
